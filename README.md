@@ -13,7 +13,7 @@ The ultrasonic sensor emits sound waves and calculates the distance of obstacles
 - Ultrasonic Sensor
 - Microcontroller (Raspberry Pi Pico )
 - Buzzer
-- Power Supply
+- Power Supply(Power bank)
 
 ## 🚀 Features
 - Real-time obstacle detection  
